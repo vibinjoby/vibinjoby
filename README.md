@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I am Vibin E Joby, a professional web and mobile app developer with experience in developing full stack web applications for 4.5 years in order management and airline industry. I have worked for some top level MNC's and helped figure out solutions to their problems and reduce redundant efforts by building tools and in turn reducing atleast 20% of human efforts.
-<!--
-**vibinjoby/vibinjoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ... React native application
 - 🌱 I’m currently learning ... React-native and, data structures and algorithms
