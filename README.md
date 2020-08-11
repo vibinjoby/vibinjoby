@@ -14,4 +14,7 @@ I am Vibin E Joby, a professional web and mobile app developer with experience i
 Follow me on my Github space to get more open sourced projects on web and mobile apps
 
 My soon to be released app.. Stay tuned to hear more updates about the mobile app
-![punchme](PunchMe.jpg)
+
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/vibinjoby/vibinjoby/blob/master/PunchMe.jpg">
+</p>
